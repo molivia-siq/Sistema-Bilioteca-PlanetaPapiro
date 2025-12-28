@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>PMBiblioteca</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/img/PM Desing - BtnVoltar.png</name>
+			<type>1</type>
+			<location>C:/Users/55169/Downloads/PM Desing - BtnVoltar.png</location>
+		</link>
+		<link>
+			<name>src/img/PM Desing - Pagina Erro.png</name>
+			<type>1</type>
+			<location>C:/Users/55169/Downloads/PM Desing - Pagina Erro.png</location>
+		</link>
+		<link>
+			<name>src/img/PM Desing - Pagina Inicial.png</name>
+			<type>1</type>
+			<location>C:/Users/55169/Downloads/PM Desing - Pagina Inicial.png</location>
+		</link>
+		<link>
+			<name>src/img/PM Desing - Pagina Sucesso.png</name>
+			<type>1</type>
+			<location>C:/Users/55169/Downloads/PM Desing - Pagina Sucesso.png</location>
+		</link>
+		<link>
+			<name>src/img/PM Desing - Paginas CRUD.png</name>
+			<type>1</type>
+			<location>C:/Users/55169/Downloads/PM Desing - Paginas CRUD.png</location>
+		</link>
+		<link>
+			<name>src/img/PM Desing - Paginas Consultas.png</name>
+			<type>1</type>
+			<location>C:/Users/55169/Downloads/PM Desing - Paginas Consultas.png</location>
+		</link>
+	</linkedResources>
+</projectDescription>
